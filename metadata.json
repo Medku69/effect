@@ -1,0 +1,6 @@
+{
+  "name": "Lithos",
+  "description": "Lithos - A dark-themed premium geology hero experience featuring dual-image cursor spotlight reveal, alongside Achluun's anime-themed personal portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
